@@ -1,2 +1,2 @@
 # Python-Projects
-Code from my courses at Tufts University
+Code from CS-167 at Tufts University
